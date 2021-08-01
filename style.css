@@ -1,8 +1,8 @@
 body {
-  background-color: #272727;
 }
 
 canvas {
+  background-color: #272727;
   border: 1px solid black;
   box-sizing: border-box;
 }
